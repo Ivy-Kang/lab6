@@ -1,39 +1,45 @@
 td, th {
-	border: 1px solid white;
+	border: 3px solid white;
   color:white;  
   font-style: italic;                   
 }
   
 th{
-  font-size: large;
+  font-size: 3em;
 }
 
 h1{
   font-family: 'Indie Flower', cursive;
   font-style: italic;
   text-align: center;
-  color:;
+  color:black;
 }
 
 tr{
   font-family: 'Acme', cursive;
   font-size:30px;
- }
+}
  
-.planet_img{
-  width:200px;
-  height:200px;
- }
- 
- .td_title{
+planet_img{
+  width:90px;
+  height:90px;
+}
+
+#planets{
+  margin-left:auto;
+  margin-right:auto;
+}
+  
+td_title{
   text-align: center;
- }
+}
  
 body{
   background-color: #685376;
 }
 
 table{
+  background-color: white
   border-collapse:collapse;
   text-align: center;
 }
