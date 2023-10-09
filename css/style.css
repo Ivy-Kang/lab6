@@ -21,6 +21,7 @@ h1{
   margin: 10px 200px;
   border-radius: 4px;
 }
+
 h1:hover{
   border-radius: 20px;
   text-transform: uppercase;
