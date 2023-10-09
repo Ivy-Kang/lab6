@@ -18,6 +18,7 @@ h1{
 tr{
   font-family: 'Acme', cursive;
   font-size:large;
+  background-color: white
 }
  
 planet_img{
@@ -39,7 +40,6 @@ body{
 }
 
 table{
-  background-color: white
   border-collapse:collapse;
   text-align: center;
 }
