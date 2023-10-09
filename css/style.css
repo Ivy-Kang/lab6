@@ -21,6 +21,10 @@ h1{
   margin: 5px 5px;
   border-radius: 4px;
 }
+h1:hover{
+  border-radius: 20px;
+  transform: scale(1.05);
+}  
 
 tr{
   font-family: 'Acme', cursive;
