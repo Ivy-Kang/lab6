@@ -15,7 +15,7 @@ h1{
   font-style: italic;
   text-align: center;
   font-weight: bolder;
-  color:black;
+  color: black;
   background-color: #E8DAEF;
   padding: 5px 5px;
   margin: 10px 200px;
@@ -29,17 +29,17 @@ h1:hover{
 
 tr{
   font-family: 'Acme', cursive;
-  font-size:large;
+  font-size: large;
 }
 
 #planets{
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
 }
  
 .planet_img{
-  width:150px;
-  height:150px;
+  width: 150px;
+  height: 150px;
 }
  
 td_title{
@@ -51,6 +51,6 @@ body{
 }
 
 table{
-  border-collapse:collapse;
+  border-collapse: collapse;
   text-align: center;
 }
