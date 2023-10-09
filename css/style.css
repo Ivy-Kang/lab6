@@ -24,6 +24,7 @@ h1{
 h1:hover{
   background-color: #EBF5FB;
   border-radius: 20px;
+  text-transform: uppercase;
 }  
 
 tr{
