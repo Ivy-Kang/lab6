@@ -1,3 +1,40 @@
 td, th {
-	border: 1px solid;
-  }
+	border: 1px solid white;
+  color:white;  
+  font-style: italic;                   
+}
+  
+th{
+  font-size: large;
+}
+
+h1{
+  font-family: 'Acme', cursive;
+  font-style: italic;
+  text-align: center;
+  color:;
+}
+
+tr{
+  font-family: 'Indie Flower', cursive;
+  font-size:30px;
+ }
+ 
+.planet_img{
+  width:200px;
+  height:200px;
+ }
+ 
+ .td_title{
+  text-align: center;
+ }
+ 
+body{
+  background-color: #685376;
+}
+
+table{
+  border-collapse:collapse;
+  text-align: center;
+}
+
