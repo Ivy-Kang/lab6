@@ -2,7 +2,7 @@ td, th {
 	border: solid black;
   color: black;  
   font-style: italic;
-  font-weight: 600  
+  font-weight: 300  
 }
   
 th{
@@ -13,6 +13,7 @@ h1{
   font-family: 'Indie Flower', cursive;
   font-style: italic;
   text-align: center;
+  font-weight: 400
   color:black;
 }
 
