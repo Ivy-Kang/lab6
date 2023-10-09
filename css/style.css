@@ -22,11 +22,16 @@ tr{
   font-size:large;
 }
  
+#planets{
+  margin-left:auto;
+  margin-right:auto;
+}
+ 
 .planet_img{
   width:130px;
   height:130px;
 }
-  
+ 
 td_title{
   text-align: center;
 }
