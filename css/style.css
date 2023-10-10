@@ -14,7 +14,6 @@ h1{
   font-family: 'Indie Flower', cursive;
   font-style: italic;
   text-align: center;
-  font-weight: bolder;
   color: black;
   background-color: #E8DAEF;
   padding: 5px 5px;
@@ -32,8 +31,8 @@ tr{
   font-size: large;
 }
 
-.Earth:hover{
-  text-transform: bold;  
+.earth:hover{
+  text-transform: uppercase;  
 }
   
 #planets{
@@ -57,4 +56,20 @@ body{
 table{
   border-collapse: collapse;
   text-align: center;
+}
+
+.earth{
+  color: navy;
+}
+
+.moon{
+  color: gray;
+}
+
+.mars{
+  color:orange;
+}
+
+.jupiter{
+  color:maroon;
 }
