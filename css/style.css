@@ -32,6 +32,10 @@ tr{
   font-size: large;
 }
 
+.Earth:hover{
+  text-transform: bold;  
+}
+  
 #planets{
   margin-left: auto;
   margin-right: auto;
